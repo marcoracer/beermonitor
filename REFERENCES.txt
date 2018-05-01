@@ -1,0 +1,9 @@
+https://www.filipeflop.com/blog/sensor-de-temperatura-ds18b20-arduino/
+
+https://github.com/milesburton/Arduino-Temperature-Control-Library/blob/master/examples/Single/Single.pde
+
+https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
+
+https://nicegear.nz/product/4-channel-usbwireless-relay-module-tosr04t
+
+https://www.ebay.com/itm/4-Channel-USB-Wireless-Relay-Module-Kit-with-DS18B20-TOSR04-T-Wifi-or-Bluetooth-/331020250387?_ul=BR
